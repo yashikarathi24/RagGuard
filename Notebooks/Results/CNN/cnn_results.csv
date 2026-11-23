@@ -1,0 +1,2 @@
+Model,Accuracy,Hallucination_Precision,Hallucination_Recall,Hallucination_F1
+CNN,0.7842990654205607,0.7466307277628033,0.5874867444326617,0.657566765578635

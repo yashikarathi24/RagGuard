@@ -1,0 +1,2 @@
+Model,Accuracy,Hallucination_Precision,Hallucination_Recall,Hallucination_F1
+Bidirectional GRU,0.7854205607476635,0.7971014492753623,0.5249204665959704,0.6329923273657289

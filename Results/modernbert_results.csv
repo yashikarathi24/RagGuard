@@ -1,0 +1,2 @@
+Model,Training_Samples,Validation_Samples,Testing_Samples,Accuracy,Hallucination_Precision,Hallucination_Recall,Hallucination_F1
+ModernBERT-base,200,50,100,0.68,0.5483870967741935,0.4857142857142857,0.5151515151515151

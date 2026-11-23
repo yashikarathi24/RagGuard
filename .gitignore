@@ -1,0 +1,20 @@
+# Datasets
+Dataset/*.jsonl
+
+# Model weights
+Models/**/*.safetensors
+Models/**/*.pt
+Models/**/*.pth
+Models/**/*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.venv/
+venv/
