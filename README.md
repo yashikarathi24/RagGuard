@@ -6,6 +6,14 @@ RAGGuard is a machine learning project designed to identify hallucinations in AI
 
 The project explores multiple machine learning and deep learning approaches, progressing from traditional text-based classification methods to a Transformer-based model using ModernBERT.
 
+## 🚀 Live Demo
+
+**Try RAGGuard:** https://ragguard.streamlit.app/
+
+**Hugging Face Model:** [Yashika22/ragguard-modernbert](https://huggingface.co/Yashika22/ragguard-modernbert)
+
+**GitHub Repository:** https://github.com/yashikarathi24/RagGuard
+
 ## Project Objective
 
 Retrieval-Augmented Generation (RAG) systems generate responses using external information sources. However, generated responses may contain unsupported or contradictory information.
