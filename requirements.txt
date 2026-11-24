@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+accelerate
+safetensors
+numpy
+pandas
+scikit-learn
+joblib

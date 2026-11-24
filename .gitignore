@@ -1,5 +1,5 @@
 # Datasets
-Dataset/*.jsonl
+#Dataset/*.jsonl
 
 # Model weights
 Models/**/*.safetensors
