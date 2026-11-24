@@ -200,9 +200,3 @@ Then:
 ```powershell
 git status --short
 ```
-
-## 4. One important thing before pushing
-
-Your final ModernBERT model contains `model.safetensors`, which can be a large file. We should check its size before deciding whether to upload it directly to GitHub or use Git LFS / Hugging Face.
-
-**For now, just create the two files and send me the terminal output.** We'll handle model storage and the `.gitignore` rules next, without losing any of your experiments.
